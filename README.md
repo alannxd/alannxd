@@ -26,4 +26,4 @@
   <a href="https://www.linkedin.com/in/alan-dos-santos-64a4b2246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alannxd/alannxd/blob/output/github-contribution-grid-snake.svg)
