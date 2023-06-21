@@ -2,7 +2,7 @@
 
 <div>
   
-  ![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=alannxd&show_icons=true&theme=dracula&count_private=true)
+  ![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=alannxd&show_icons=true&theme=radical)
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannxd&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
