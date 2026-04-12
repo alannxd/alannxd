@@ -2,7 +2,10 @@
 
 **`Desenvolvedor FullStack | Sistemas de Informação - FAMETRO`**
 
-Me chamo Alan dos Santos Medeiros, tenho 20 anos e sou natural do Amazonas. Concluí o ensino médio pelo IFAM, com curso técnico em Informática. Atualmente, curso Sistemas de Informação no Centro Universitário FAMETRO, em Manaus. Sou apaixonado por tecnologia e pelo desenvolvimento de soluções digitais. Trabalho com JavaScript, React e Node.js, sempre focado em criar interfaces modernas, funcionais e com ótima experiência para o usuário.
+Me chamo Alan dos Santos Medeiros, tenho 20 anos e sou natural do Amazonas. Concluí o ensino médio pelo IFAM, com curso técnico em Informática. Atualmente, curso Sistemas de Informação no Centro Universitário FAMETRO, em Manaus.
+
+Atuo no desenvolvimento de aplicações web utilizando JavaScript, React e Node.js, criando interfaces modernas, funcionais e focadas na melhor experiência do usuário. Tenho interesse constante em evoluir minhas habilidades e desenvolver soluções digitais eficientes e escaláveis.
+
 <p align="left">
     <a href="https://github.com/alannxd?tab=repositories&sort=stargazers">
         <img 
@@ -129,35 +132,3 @@ Me chamo Alan dos Santos Medeiros, tenho 20 anos e sou natural do Amazonas. Conc
 
 <br/>
 <br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alannxd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true&hide_border=true" 
-  />
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannxd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true" 
-  />
-</p>
-
-<br clear="left"/>
-
----
-
-### 🐍 Histórico de Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
